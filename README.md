@@ -100,7 +100,7 @@ Busco aprimorar meus conhecimentos, explorar novas tecnologias e desenvolver uma
         <img src="https://img.shields.io/badge/Flyway-0D0D0D?style=flat-square&logo=flyway&logoColor=941B85"/>
         <br><br>
         API REST voltada ao gerenciamento de viagens, com funcionalidades de cadastro de voos e compra de passagens.
-        <br><br>
+        <br><br><br>
         <a href="https://github.com/c4amila/travelhub-api">
           <img src="https://img.shields.io/badge/VER%20PROJETO-941B85?style=for-the-badge&logo=github&logoColor=white" alt="Ver Travelhub API"/>
         </a>
@@ -127,7 +127,7 @@ Busco aprimorar meus conhecimentos, explorar novas tecnologias e desenvolver uma
       <div align="center">
         <img src="https://img.shields.io/badge/Coming_Soon-941B85?style=flat-square&logo=github&logoColor=white"/>
         <img src="https://img.shields.io/badge/Work_in_Progress-0D0D0D?style=flat-square&logo=github&logoColor=941B85"/>
-        <br><br>
+        <br><br><br>
         Novos projetos e desafios estão a caminho. Em breve, mais novidades!
         <br><br>
         <img src="https://img.shields.io/badge/EM%20DESENVOLVIMENTO-941B85?style=for-the-badge&logo=github&logoColor=white" alt="Em desenvolvimento"/>
