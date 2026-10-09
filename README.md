@@ -66,61 +66,76 @@ Busco aprimorar meus conhecimentos, explorar novas tecnologias e desenvolver uma
   
 </div>
 
-<div>
+<br><br>
+
+<div align="center">
 
 ## Projetos em Destaque 🥇
-
-<sub>Projetos desenvolvidos durante minha jornada</sub>
   
 </div>
 
 <table align="center">
   <tr>
-    <td width="50%">
-      <h4 align="center">🔐 LoginAuthentication API</h4>
-        <div align="center">
-          API REST de autenticação e gerenciamento de usuários, com foco em segurança, validação de dados e boas práticas de desenvolvimento.
-          <br><br>
-          <a href="https://github.com/c4amila/login-authentication">
-            <img src="https://img.shields.io/badge/VER%20PROJETO-941b85?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </div>
+    <td width="50%" valign="top">
+      <h3 align="center">🔐 LoginAuthentication API</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Java-941B85?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-0D0D0D?style=flat-square&logo=springboot&logoColor=941B85"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-941B85?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-0D0D0D?style=flat-square&logo=docker&logoColor=941B85"/>
+        <br><br>
+        API REST de autenticação e gerenciamento de usuários, com foco em segurança, validação de dados e boas práticas de desenvolvimento.
+        <br><br>
+        <a href="https://github.com/c4amila/login-authentication">
+          <img src="https://img.shields.io/badge/VER%20PROJETO-941B85?style=for-the-badge&logo=github&logoColor=white" alt="Ver LoginAuthentication API"/>
+        </a>
+      </div>
     </td>
-    <td width="50%">
-      <h4 align="center">✈️ Travelhub API</h4>
-        <div align="center">
-          API REST voltada ao gerenciamento de viagens, com funcionalidades de cadastro de voos e compra de passagens.
-          <br><br>
-          <a href="https://github.com/c4amila/travelhub-api">
-            <img src="https://img.shields.io/badge/VER%20PROJETO-941b85?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </div>
-    </td> 
-  </tr> 
+    <td width="50%" valign="top">
+      <h3 align="center">✈️ Travelhub API</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Java-941B85?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-0D0D0D?style=flat-square&logo=springboot&logoColor=941B85"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-941B85?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flyway-0D0D0D?style=flat-square&logo=flyway&logoColor=941B85"/>
+        <br><br>
+        API REST voltada ao gerenciamento de viagens, com funcionalidades de cadastro de voos e compra de passagens.
+        <br><br>
+        <a href="https://github.com/c4amila/travelhub-api">
+          <img src="https://img.shields.io/badge/VER%20PROJETO-941B85?style=for-the-badge&logo=github&logoColor=white" alt="Ver Travelhub API"/>
+        </a>
+      </div>
+    </td>
+  </tr>
 
   <tr>
-    <td width="50%">
-      <h4>🎫 Ticket SIR</h4>
+    <td width="50%" valign="top">
+      <h3 align="center">🎫 Ticket SIR</h3>
       <div align="center">
-          Projeto acadêmico de gerenciamento de tickets, desenvolvido em equipe, envolvendo modelagem de dados, padrões de projeto e colaboração.
-          <br><br>
-          <a href="https://github.com/GustavoMdancers/A3_MMTES">
-            <img src="https://img.shields.io/badge/VER%20PROJETO-941b85?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </div>
+        <img src="https://img.shields.io/badge/Java-941B85?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/API_REST-0D0D0D?style=flat-square&logo=swagger&logoColor=941B85"/>
+        <br><br>
+        Projeto acadêmico de gerenciamento de tickets, desenvolvido em equipe, envolvendo modelagem de dados, padrões de projeto e colaboração.
+        <br><br>
+        <a href="https://github.com/GustavoMdancers/A3_MMTES">
+          <img src="https://img.shields.io/badge/VER%20PROJETO-941B85?style=for-the-badge&logo=github&logoColor=white" alt="Ver Ticket SIR"/>
+        </a>
+      </div>
     </td>
-    <td width="50%">
-      <h4>🛠️ Em breve</h4>
+    <td width="50%" valign="top">
+      <h3 align="center">🛠️ Em breve</h3>
       <div align="center">
-          Em breve.
-          <br><br>
-          <a href="">
-            <img src="https://img.shields.io/badge/VER%20PROJETO-941b85?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </div>
+        <img src="https://img.shields.io/badge/Coming_Soon-941B85?style=flat-square&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Work_in_Progress-0D0D0D?style=flat-square&logo=github&logoColor=941B85"/>
+        <br><br>
+        Novos projetos e desafios estão a caminho. Em breve, mais novidades!
+        <br><br>
+        <img src="https://img.shields.io/badge/EM%20DESENVOLVIMENTO-941B85?style=for-the-badge&logo=github&logoColor=white" alt="Em desenvolvimento"/>
+      </div>
     </td>
-  </tr>  
+  </tr>
 </table>
+
 
 <details align="center">
   <summary>
