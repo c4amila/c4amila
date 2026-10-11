@@ -85,7 +85,7 @@ Busco aprimorar meus conhecimentos, explorar novas tecnologias e desenvolver uma
         <img src="https://img.shields.io/badge/Docker-0D0D0D?style=flat-square&logo=docker&logoColor=941B85"/>
         <br><br>
         API REST de autenticação e gerenciamento de usuários, com foco em segurança, validação de dados e boas práticas de desenvolvimento.
-        <br><br>
+        <br><br><br>
         <a href="https://github.com/c4amila/login-authentication">
           <img src="https://img.shields.io/badge/VER%20PROJETO-941B85?style=for-the-badge&logo=github&logoColor=white" alt="Ver LoginAuthentication API"/>
         </a>
@@ -100,7 +100,7 @@ Busco aprimorar meus conhecimentos, explorar novas tecnologias e desenvolver uma
         <img src="https://img.shields.io/badge/Flyway-0D0D0D?style=flat-square&logo=flyway&logoColor=941B85"/>
         <br><br>
         API REST voltada ao gerenciamento de viagens, com funcionalidades de cadastro de voos e compra de passagens.
-        <br><br><br>
+        <br><br><br><br>
         <a href="https://github.com/c4amila/travelhub-api">
           <img src="https://img.shields.io/badge/VER%20PROJETO-941B85?style=for-the-badge&logo=github&logoColor=white" alt="Ver Travelhub API"/>
         </a>
